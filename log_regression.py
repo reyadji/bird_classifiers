@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""@file log_regression.py
+   @brief l2-regularized logistic regression classifier algorithm with example
+   @author Reynaldo Adji <rey.adji@gmail.com>
+"""
+
 import os
 import copy
 import csv

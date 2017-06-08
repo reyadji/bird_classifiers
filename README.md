@@ -8,3 +8,9 @@ How-to generate prediction:
 2. Run main function using your own test dataset or bird test labels example dataset. Run will save and return prediction
 3. ???
 4. Profit!
+
+Required Python package:
+1. Numpy
+2. Matplotlib
+3. Sklearn
+4. Pickle
